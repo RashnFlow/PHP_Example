@@ -1,0 +1,19 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Instagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "instagram-private-api": "^1.45.2",
+    "instagram_mqtt": "^1.2.2",
+    "net": "^1.0.2",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.0"
+  }
+}
